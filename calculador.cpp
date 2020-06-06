@@ -10,7 +10,6 @@ using namespace std;
 		char op;
 		double num1, num2;
 		double resultado;
-		long double exp;
 		
 		cout<<"\n\n Calculadora";
 		cout<<"\n\n Digite o primeiro número: ";
